@@ -42,7 +42,7 @@ The Loadbalancer health check should configure here depends on your application 
 
 ![image](https://github.com/kohlidevops/aws-apprunner/assets/100069489/320ed934-bdfe-4688-8d8d-bd5afcab29bb)
 
-Networking configuration simply about your Incoming and Outgoing Networking Traffic. You can even go with Private ebdpoint if you are configured Private Link and you can select custom VPC in Outgoing to send traffic to any endpoint (Private or Public endpoint).
+Networking configuration simply about your Incoming and Outgoing Networking Traffic. You can even go with Private endpoint if you are configured Private Link and you can select custom VPC in Outgoing to send traffic to any endpoint (Private or Public endpoint).
 
 ![image](https://github.com/kohlidevops/aws-apprunner/assets/100069489/70db8ec0-c739-4143-838d-1240890263ce)
 
